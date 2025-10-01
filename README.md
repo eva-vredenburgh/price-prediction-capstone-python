@@ -21,15 +21,15 @@ Unlike new cars, where pricing is standardized by manufacturers, used car prices
 - **What is it that we are trying to solve using data science?**
 
 We are formulating this as a supervised regression problem, where the task is to predict the selling price of a used car based on features such as year, brand, fuel type, transmission, mileage, and other specifications. This will be done using historical data to train machine learning models that can generalize well to unseen data. To tackle this, we implement and compare multiple machine learning models, including:
-•    Linear Regression – for a simple, interpretable baseline
-•    Ridge & Lasso Regression – to handle multicollinearity and feature selection
-•    Decision Tree – to capture non-linear patterns in the data
-•    Random Forest – a model that improves performance and reduces overfitting
+- **Linear Regression** – for a simple, interpretable baseline  
+- **Ridge & Lasso Regression** – to handle multicollinearity and feature selection  
+- **Decision Tree** – to capture non-linear patterns in the data  
+- **Random Forest** – a model that improves performance and reduces overfitting
 
 By training and evaluating these models, we aim to:
-•    Identify which approach best balances accuracy and interpretability
-•    Understand how different features impact car pricing
-•    Build a solution that can be deployed or scaled to assist sellers and the business with dynamic pricing strategies
+- Identify which approach best balances accuracy and interpretability
+- Understand how different features impact car pricing
+- Build a solution that can be deployed or scaled to assist sellers and the business with dynamic pricing strategies
 
 
 ### **Data Dictionary**
