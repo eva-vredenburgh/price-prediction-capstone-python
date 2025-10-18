@@ -1,6 +1,25 @@
 # price-prediction-capstone-python
 This was my final Capstone project for the MIT course Applied Data Science Program: Leveraging AI for Effective Decision-Making. The objective was to come up with a pricing model that can eﬀectively predict the price of used cars and can help a business in devising profitable strategies using diﬀerential pricing.
 
+# **Requirements**
+
+This project was built with Python 3 and uses the following libraries:
+
+- Data manipulation: numpy, pandas
+
+- Statistics and diagnostics: scipy, statsmodels
+
+- Visualization: matplotlib, seaborn
+
+- Machine learning and model evaluation: scikit-learn
+
+- Model saving: pickle (part of the Python standard library)
+
+- Utilities: warnings (part of the Python standard library)
+
+To install all required packages, run:
+pip install numpy pandas scipy statsmodels matplotlib seaborn scikit-learn
+
 ## **Problem Definition**
 
 ### **The Context:**
